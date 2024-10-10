@@ -1,0 +1,8 @@
+SISD (Single Instruction, Single Data) refiere a una arquitectura computacional, en esta un único procesador ejecuta unicamente un flujo de instrucciones para operar sobre datos almacenados en una única memoria.
+	Lenguajes:  Assembly
+SIMD (Single Instruction, Multiple Data) consiste en instrucciones que aplican una misma operación sobre un conjunto de datos. Una única unidad de control común despacha las instruciones a diferentes unidades de procesamiento.
+	Lenguajes:  C, C++, Rust, JavaScript, Python, Java, Go, D.
+MISD (Multiple Instruction, Single Data)  es un tipo de arquitectura computacional donde muchas unidades funcionales realizan diferentes operaciones en los mismos datos.
+	Lenguajes:  C, C++, Fortran
+MIMD (Multiple Instruction, Multiple Data) resulta cuando cualquier procesador puede ejecutar diferentes instrucciones sobre distintos datos.
+	Lenguajes: C, C++, Rust, JavaScript, Python, Java, etc.
