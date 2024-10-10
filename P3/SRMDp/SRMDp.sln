@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SRMDp", "SRMDp\SRMDp.vcxproj", "{7F9D6926-B72D-4604-91E8-DFF55F88B625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9D6926-B72D-4604-91E8-DFF55F88B625}.Debug|x64.ActiveCfg = Debug|x64
+		{7F9D6926-B72D-4604-91E8-DFF55F88B625}.Debug|x64.Build.0 = Debug|x64
+		{7F9D6926-B72D-4604-91E8-DFF55F88B625}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F9D6926-B72D-4604-91E8-DFF55F88B625}.Debug|x86.Build.0 = Debug|Win32
+		{7F9D6926-B72D-4604-91E8-DFF55F88B625}.Release|x64.ActiveCfg = Release|x64
+		{7F9D6926-B72D-4604-91E8-DFF55F88B625}.Release|x64.Build.0 = Release|x64
+		{7F9D6926-B72D-4604-91E8-DFF55F88B625}.Release|x86.ActiveCfg = Release|Win32
+		{7F9D6926-B72D-4604-91E8-DFF55F88B625}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6F1D5AF-498B-4ED6-9459-7F70D3894751}
+	EndGlobalSection
+EndGlobal

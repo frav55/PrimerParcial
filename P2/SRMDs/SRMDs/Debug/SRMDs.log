@@ -1,0 +1,3 @@
+﻿  Main.c
+c:\users\frvo\source\repos\srmds\srmds\main.c(14): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+  SRMDs.vcxproj -> c:\Users\FRVO\source\repos\SRMDs\Debug\SRMDs.exe
