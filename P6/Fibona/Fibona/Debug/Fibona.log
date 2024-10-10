@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\users\frvo\source\repos\fibona\fibona\main.c(21): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\frvo\source\repos\fibona\fibona\main.c(21): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+  Fibona.vcxproj -> C:\Users\FRVO\source\repos\Fibona\Debug\Fibona.exe

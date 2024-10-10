@@ -1,0 +1,10 @@
+C:\Users\FRVO\source\repos\CalculadoraPostfija\CalculadoraPostfija\bin\Debug\CalculadoraPostfija.exe.config
+C:\Users\FRVO\source\repos\CalculadoraPostfija\CalculadoraPostfija\bin\Debug\CalculadoraPostfija.exe
+C:\Users\FRVO\source\repos\CalculadoraPostfija\CalculadoraPostfija\bin\Debug\CalculadoraPostfija.pdb
+C:\Users\FRVO\source\repos\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.csprojAssemblyReference.cache
+C:\Users\FRVO\source\repos\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.Form1.resources
+C:\Users\FRVO\source\repos\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.Properties.Resources.resources
+C:\Users\FRVO\source\repos\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.csproj.GenerateResource.cache
+C:\Users\FRVO\source\repos\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.csproj.CoreCompileInputs.cache
+C:\Users\FRVO\source\repos\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.exe
+C:\Users\FRVO\source\repos\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.pdb
